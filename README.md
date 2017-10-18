@@ -1,0 +1,2 @@
+# jQueryPlugins
+Plugins for jQuery
